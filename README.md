@@ -5,11 +5,11 @@
         - [x] nivel 2
         - [x] nivel 3
         - [x] extra
-    - [] case 1
-        - [] nivel 1
-        - [] nivel 2
-        - [] nivel 3
-        - [] extra
+    - [x] case 1
+        - [x] nivel 1
+        - [x] nivel 2
+        - [x] nivel 3
+        - [x] extra
     - [] case 2
         - [] nivel 1
         - [] nivel 2
