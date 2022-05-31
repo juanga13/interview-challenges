@@ -1,3 +1,21 @@
+# Progress
+- supermarket-list
+    - [x] case 0
+        - [x] nivel 1
+        - [x] nivel 2
+        - [x] nivel 3
+        - [x] extra
+    - [] case 1
+        - [] nivel 1
+        - [] nivel 2
+        - [] nivel 3
+        - [] extra
+    - [] case 2
+        - [] nivel 1
+        - [] nivel 2
+        - [] nivel 3
+        - [] extra
+
 # Challenges de entrevistas
 En este repositorio se iran subiendo algunos de los challenges que resolvemos en [el stream](https://twitch.tv/goncypozzo).
 
